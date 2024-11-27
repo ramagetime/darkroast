@@ -15,7 +15,7 @@ export function Hero() {
       <div className="relative h-full flex items-center justify-center text-center px-4">
         <div className="max-w-3xl">
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6">
-            Craft Coffee for the Bold
+            Craft Coffee for the Smart
           </h1>
           <p className="text-xl text-gray-300 mb-8">
             Small-batch roasted beans for those who dare to taste the difference
